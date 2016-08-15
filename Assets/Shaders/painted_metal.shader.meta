@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4820a39cff5bea3458f3fcf1bf44b51d
+timeCreated: 1465055717
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _GrungeOverlay: {fileID: 2800000, guid: 02e549689df5c6b46bccd4ef6f61f6d9, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

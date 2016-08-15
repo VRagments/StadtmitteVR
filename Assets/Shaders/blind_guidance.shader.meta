@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f462b30ce4bd58f43a7b4c1a1fd2311a
+timeCreated: 1465161571
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _Basecolor: {fileID: 2800000, guid: dc15f6a2e19c5ba4d8fbcd565beafcfc, type: 3}
+  - _NormalMap: {fileID: 2800000, guid: 8239a6663ca850e40983ccc58c61bb1c, type: 3}
+  - _MixmapARM: {fileID: 2800000, guid: 1c0dab6fdd2c96f448d256164f2033dd, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
